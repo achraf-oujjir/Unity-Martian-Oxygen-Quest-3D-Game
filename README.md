@@ -35,6 +35,30 @@ Ensure you have Unity installed (version 2019.x or later is recommended). Open t
 - **Controls**: Use standard controls for navigation and interaction with the astronaut avatar.
 - **Score Tracking**: Monitor your score in real-time displayed at the top left of the screen.
 
+## 🛠️ Implementation Details
+### 🪐 Martian Environment
+
+Imported from the Unity Asset Store, modified to resemble a Martian landscape with Martian soil and terrain. The package can be found [here](https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479).
+
+### 👨‍🚀 Astronaut Avatar
+
+An astronaut model from the Unity Asset Store, complete with animations. Custom animations and scripts (e.g., Player.cs) were added to enhance realism.
+
+### 💧 Oxygen Tanks
+
+Imported from the Unity Asset Store as part of a package. The oxygen tank prefab allows multiple instances to be instantiated in the scene. Box Colliders are used for detecting collisions.
+
+### 🎮 UI Elements
+
+- Score Display: Uses TextMeshPro to show the number of collected oxygen tanks.
+- Oxygen Tank Icon: An image representation of collected tanks on the canvas.
+
+### 📜 Scripts
+
+ - OTank.cs: Manages the disappearance of oxygen tanks upon collision.
+ - PlayerInventory.cs: Increments the player's score for each collected oxygen tank.
+ - InventoryUI.cs: Updates the player's score on the user interface.
+
 ## 📚 References
 
 - [Unity Asset Store Skybox](https://assetstore.unity.com)
