@@ -37,8 +37,9 @@ Ensure you have Unity installed (version 2019.x or later is recommended). Open t
 
 ## 📚 References
 
-- Unity Asset Store for assets
-- TextMeshPro Documentation for UI elements
+- [Unity Asset Store Skybox](https://assetstore.unity.com)
+- [LowPoly Env Package Used in this Project](https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479)
+- [C# Scripting in Unity](https://docs.unity3d.com/Manual/scripting.html)
 
 ## 📝 License
 
