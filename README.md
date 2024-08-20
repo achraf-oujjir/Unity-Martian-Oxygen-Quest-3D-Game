@@ -27,7 +27,7 @@ Created as part of a practical assignment in game development, this project show
    git clone https://github.com/achraf-oujjir/Unity-Martian-Oxygen-Quest-3D-Game.git
    ```
 2. **Open the Project in Unity**:
-Ensure you have Unity installed (version 2019.x or later is recommended). Open the project using Unity Hub or the Unity editor. Refer to this [article](https://support.unity.com/hc/en-us/articles/4402520287124-How-do-I-add-a-project-saved-on-my-computer-into-the-Unity-Hub).
+Ensure you have Unity installed (version 2021.x or later is recommended. This game has been developed on 2021.3.19f1). Open the project using Unity Hub or the Unity editor. Refer to this [article](https://support.unity.com/hc/en-us/articles/4402520287124-How-do-I-add-a-project-saved-on-my-computer-into-the-Unity-Hub).
 
 ## 🕹️ GamePlay
 
@@ -50,14 +50,14 @@ Imported from the Unity Asset Store as part of a package. The oxygen tank prefab
 
 ### 🎮 UI Elements
 
-- Score Display: Uses TextMeshPro to show the number of collected oxygen tanks.
-- Oxygen Tank Icon: An image representation of collected tanks on the canvas.
+- **Score Display**: Uses TextMeshPro to show the number of collected oxygen tanks.
+- **Oxygen Tank Icon**: An image representation of collected tanks on the canvas.
 
 ### 📜 Scripts
 
- - OTank.cs: Manages the disappearance of oxygen tanks upon collision.
- - PlayerInventory.cs: Increments the player's score for each collected oxygen tank.
- - InventoryUI.cs: Updates the player's score on the user interface.
+ - **OTank.cs**: The [OTank.cs](Assets/Scripts/OTank.cs) script manages the disappearance of oxygen tanks upon collision.
+ - **PlayerInventory.cs**: This [script](Assets/Scripts/PlayerInventory.cs) increments the player's score for each collected oxygen tank.
+ - **InventoryUI.cs**: Updates the player's score on the user interface.
 
 ## 📚 References
 
