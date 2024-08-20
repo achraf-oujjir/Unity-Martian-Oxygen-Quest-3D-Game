@@ -6,7 +6,7 @@ Embark on an interstellar adventure in **Unity Martian Oxygen Quest 3D**! Guide 
 
 Created as part of a practical assignment in game development, this project showcases our skills in Unity by designing a 3D collectible game. The game features an astronaut navigating Mars, collecting oxygen tanks, and managing a real-time score displayed on an intuitive UI.
 
-## 🕹️ Features
+## 👽 Features
 
 - **Collectible Gameplay**: Navigate Mars and collect scattered oxygen tanks to ensure survival.
 - **Astronaut Avatar**: Use a dynamic astronaut model from the Unity Asset Store with various animations.
@@ -28,4 +28,10 @@ Created as part of a practical assignment in game development, this project show
    ```
 2. **Open the Project in Unity**:
 Ensure you have Unity installed (version 2019.x or later is recommended). Open the project using Unity Hub or the Unity editor. Refer to this [article](https://support.unity.com/hc/en-us/articles/4402520287124-How-do-I-add-a-project-saved-on-my-computer-into-the-Unity-Hub).
+
+## 🕹️ GamePlay
+
+- **Objective**: Collect as many oxygen tanks as possible scattered across Mars to survive.
+- **Controls**: Use standard controls for navigation and interaction with the astronaut avatar.
+- **Score Tracking**: Monitor your score in real-time displayed at the top left of the screen.
 
