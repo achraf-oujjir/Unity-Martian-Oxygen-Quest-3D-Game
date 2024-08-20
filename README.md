@@ -57,6 +57,7 @@ Imported from the Unity Asset Store as part of a package. The oxygen tank prefab
 
  - **OTank.cs**: The [OTank.cs](Assets/Scripts/OTank.cs) script manages the disappearance of oxygen tanks upon collision.
  - **PlayerInventory.cs**: This [script](Assets/Scripts/PlayerInventory.cs) increments the player's score for each collected oxygen tank.
+ - **Player.cs**: This [script](Assets/Stylized Astronaut/Character/Player.cs) has been modified to configure animations.
  - **InventoryUI.cs**: Updates the player's score on the user interface.
 
 ## 📚 References
