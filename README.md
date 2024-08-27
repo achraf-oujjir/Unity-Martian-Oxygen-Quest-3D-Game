@@ -94,7 +94,7 @@ Imported from the Unity Asset Store as part of a package. The oxygen tank prefab
 <div align="center">
    <img align="center" alt="final_demo" width="800" src="Images/23demo.png">
    <br><br>
-   This is the creation of the OTank Prefab
+   Astro collecting OTanks
 </div>
 <br>
 
